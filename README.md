@@ -6,5 +6,5 @@ A Páscoa é uma festa com data móvel em relação ao nosso calendário. O Prim
 
 Talvez uma informação interessante para o seu sistema é que a Páscoa sempre irá variar entre 22 de março a 26 de abril no calendário gregoriano.
 
-## Fonte:
+## Fonte
 http://hernaski.com.br/blog/calcular-data-de-pascoa-e-carnaval-em-c/5
