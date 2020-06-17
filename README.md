@@ -1,5 +1,5 @@
 # calculo-data-pascoa
-Cálculo da data da páscoa.
+Cálculo da data da páscoa.  
 *Guardado implementação caso precise calcular dias úteis.
 
 ## História
